@@ -1,0 +1,238 @@
+10
+
+dir
+0
+https://github.com:443/rohans/wordpress-nashtechnology/wp-content/themes/twentyten
+https://github.com:443/rohans/wordpress-nashtechnology
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+
+
+
+
+
+
+
+
+
+
+
+bb9ba19a-94f4-77cb-2fc9-ce57b7db7bff
+
+footer.php
+file
+
+
+
+add
+
+loop-attachment.php
+file
+
+
+
+add
+
+style.css
+file
+
+
+
+add
+
+author.php
+file
+
+
+
+add
+
+rtl.css
+file
+
+
+
+add
+
+sidebar-footer.php
+file
+
+
+
+add
+
+search.php
+file
+
+
+
+add
+
+404.php
+file
+
+
+
+add
+
+index.php
+file
+
+
+
+add
+
+functions.php
+file
+
+
+
+add
+
+loop.php
+file
+
+
+
+add
+
+onecolumn-page.php
+file
+
+
+
+add
+
+sidebar.php
+file
+
+
+
+add
+
+screenshot.png
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+license.txt
+file
+
+
+
+add
+
+tag.php
+file
+
+
+
+add
+
+page.php
+file
+
+
+
+add
+
+category.php
+file
+
+
+
+add
+
+images
+dir
+
+
+
+add
+
+languages
+dir
+
+
+
+add
+
+archive.php
+file
+
+
+
+add
+
+single.php
+file
+
+
+
+add
+
+loop-page.php
+file
+
+
+
+add
+
+editor-style-rtl.css
+file
+
+
+
+add
+
+editor-style.css
+file
+
+
+
+add
+
+comments.php
+file
+
+
+
+add
+
+attachment.php
+file
+
+
+
+add
+
+header.php
+file
+
+
+
+add
+
+loop-single.php
+file
+
+
+
+add
+

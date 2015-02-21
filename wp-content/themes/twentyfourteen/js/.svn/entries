@@ -1,0 +1,70 @@
+10
+
+dir
+0
+https://github.com:443/rohans/wordpress-nashtechnology/wp-content/themes/twentyfourteen/js
+https://github.com:443/rohans/wordpress-nashtechnology
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+
+
+
+
+
+
+
+
+
+
+
+bb9ba19a-94f4-77cb-2fc9-ce57b7db7bff
+
+customizer.js
+file
+
+
+
+add
+
+functions.js
+file
+
+
+
+add
+
+html5.js
+file
+
+
+
+add
+
+featured-content-admin.js
+file
+
+
+
+add
+
+keyboard-image-navigation.js
+file
+
+
+
+add
+
+slider.js
+file
+
+
+
+add
+

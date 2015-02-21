@@ -1,0 +1,462 @@
+10
+
+dir
+0
+https://github.com:443/rohans/wordpress-nashtechnology/wp-admin/includes
+https://github.com:443/rohans/wordpress-nashtechnology
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+
+
+
+
+
+
+
+
+
+
+
+bb9ba19a-94f4-77cb-2fc9-ce57b7db7bff
+
+class-wp-ms-sites-list-table.php
+file
+
+
+
+add
+
+class-ftp.php
+file
+
+
+
+add
+
+class-wp-posts-list-table.php
+file
+
+
+
+add
+
+plugin.php
+file
+
+
+
+add
+
+list-table.php
+file
+
+
+
+add
+
+plugin-install.php
+file
+
+
+
+add
+
+translation-install.php
+file
+
+
+
+add
+
+class-wp-media-list-table.php
+file
+
+
+
+add
+
+class-pclzip.php
+file
+
+
+
+add
+
+menu.php
+file
+
+
+
+add
+
+bookmark.php
+file
+
+
+
+add
+
+class-ftp-pure.php
+file
+
+
+
+add
+
+class-ftp-sockets.php
+file
+
+
+
+add
+
+class-wp-links-list-table.php
+file
+
+
+
+add
+
+ms-deprecated.php
+file
+
+
+
+add
+
+taxonomy.php
+file
+
+
+
+add
+
+file.php
+file
+
+
+
+add
+
+class-wp-terms-list-table.php
+file
+
+
+
+add
+
+ajax-actions.php
+file
+
+
+
+add
+
+update.php
+file
+
+
+
+add
+
+class-wp-filesystem-base.php
+file
+
+
+
+add
+
+post.php
+file
+
+
+
+add
+
+class-wp-users-list-table.php
+file
+
+
+
+add
+
+upgrade.php
+file
+
+
+
+add
+
+class-wp-ms-themes-list-table.php
+file
+
+
+
+add
+
+dashboard.php
+file
+
+
+
+add
+
+class-wp-plugin-install-list-table.php
+file
+
+
+
+add
+
+class-wp-list-table.php
+file
+
+
+
+add
+
+admin.php
+file
+
+
+
+add
+
+class-wp-theme-install-list-table.php
+file
+
+
+
+add
+
+misc.php
+file
+
+
+
+add
+
+revision.php
+file
+
+
+
+add
+
+class-wp-filesystem-ftpsockets.php
+file
+
+
+
+add
+
+class-wp-upgrader.php
+file
+
+
+
+add
+
+deprecated.php
+file
+
+
+
+add
+
+schema.php
+file
+
+
+
+add
+
+continents-cities.php
+file
+
+
+
+add
+
+comment.php
+file
+
+
+
+add
+
+theme.php
+file
+
+
+
+add
+
+class-wp-ms-users-list-table.php
+file
+
+
+
+add
+
+meta-boxes.php
+file
+
+
+
+add
+
+image-edit.php
+file
+
+
+
+add
+
+class-wp-plugins-list-table.php
+file
+
+
+
+add
+
+theme-install.php
+file
+
+
+
+add
+
+widgets.php
+file
+
+
+
+add
+
+update-core.php
+file
+
+
+
+add
+
+import.php
+file
+
+
+
+add
+
+class-wp-themes-list-table.php
+file
+
+
+
+add
+
+class-wp-comments-list-table.php
+file
+
+
+
+add
+
+template.php
+file
+
+
+
+add
+
+user.php
+file
+
+
+
+add
+
+media.php
+file
+
+
+
+add
+
+ms.php
+file
+
+
+
+add
+
+screen.php
+file
+
+
+
+add
+
+export.php
+file
+
+
+
+add
+
+image.php
+file
+
+
+
+add
+
+class-wp-filesystem-ftpext.php
+file
+
+
+
+add
+
+class-wp-filesystem-direct.php
+file
+
+
+
+add
+
+class-wp-upgrader-skins.php
+file
+
+
+
+add
+
+nav-menu.php
+file
+
+
+
+add
+
+class-wp-filesystem-ssh2.php
+file
+
+
+
+add
+
+class-wp-importer.php
+file
+
+
+
+add
+

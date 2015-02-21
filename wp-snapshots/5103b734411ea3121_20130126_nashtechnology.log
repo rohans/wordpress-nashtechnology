@@ -1,0 +1,79 @@
+11:00:04 ********************************************************* 
+11:00:04 PACKAGE-LOG:  
+11:00:04 ********************************************************* 
+11:00:04 duplicator: 0.4.1 
+11:00:04 wordpress: 3.5.1 
+11:00:04 php: 5.3.2 
+11:00:04 php sapi: apache2handler 
+11:00:04 server: Apache 
+11:00:04 browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.17 (KHTML, like Gecko) Chrome/24.0.1312.56 Safari/537.17 
+11:00:04 package name: 20130126_nashtechnology 
+11:00:04 max_time: from=30 to=1000 
+11:00:04 max_memory: from=40M to=1000M 
+11:00:04 mysql wait_timeout: 1000 
+11:00:04 ********************************************************* 
+11:00:04 SQL SCRIPT 
+11:00:04 ********************************************************* 
+11:00:04 log:fun__create_dbscript=>started 
+11:00:04 start: wp_commentmeta (0) 
+11:00:04 done:  wp_commentmeta 
+11:00:04 start: wp_comments (1) 
+11:00:04 done:  wp_comments 
+11:00:04 start: wp_duplicator (0) 
+11:00:04 done:  wp_duplicator 
+11:00:04 start: wp_links (7) 
+11:00:04 done:  wp_links 
+11:00:04 start: wp_options (187) 
+11:00:04 done:  wp_options 
+11:00:04 start: wp_postmeta (238) 
+11:00:04 done:  wp_postmeta 
+11:00:04 start: wp_posts (47) 
+11:00:04 done:  wp_posts 
+11:00:04 start: wp_term_relationships (12) 
+11:00:04 done:  wp_term_relationships 
+11:00:04 start: wp_term_taxonomy (3) 
+11:00:04 done:  wp_term_taxonomy 
+11:00:04 start: wp_terms (3) 
+11:00:04 done:  wp_terms 
+11:00:04 start: wp_usermeta (19) 
+11:00:04 done:  wp_usermeta 
+11:00:04 start: wp_users (1) 
+11:00:04 done:  wp_users 
+11:00:04 start: wp_wpclone (1) 
+11:00:04 done:  wp_wpclone 
+11:00:04 log:fun__create_dbscript=>sql file written to /Users/rohans/Documents/Workspace/nashtechnology/wp-snapshots/5103b734411ea3121_20130126_nashtechnology_database.sql 
+11:00:04 log:fun__create_dbscript=>ended 
+11:00:04 ********************************************************* 
+11:00:04 ZIP ARCHIVE 
+11:00:04 ********************************************************* 
+11:00:04 log:class.zip=>started 
+11:00:04 archive this folder: /Users/rohans/Documents/Workspace/nashtechnology 
+11:00:04 archive file name:   /Users/rohans/Documents/Workspace/nashtechnology/wp-snapshots/5103b734411ea3121_20130126_nashtechnology_package.zip 
+11:00:04 filter file extensions: '' 
+11:00:04 filter directory paths: '' 
+11:00:04 zipArchive opened 
+11:00:04 archive info: ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 2345
+    [filename] => /Users/rohans/Documents/Workspace/nashtechnology/wp-snapshots/5103b734411ea3121_20130126_nashtechnology_package.zip
+    [comment] => 
+)
+ 
+11:00:09 close returned: 1 (if null check your disk quota) 
+11:00:09 log:class.zip=>ended 
+11:00:09 log:act__create=>zip file size is: 74.39MB 
+11:00:09 log:act__create=>zip archive complete. 
+11:00:09 log:act__create=>recorded archieve id: 3 
+11:00:09 ********************************************************* 
+11:00:09 UPDATE INSTALLER FILE 
+11:00:09 ********************************************************* 
+11:00:09 log:fun__build_installerFile=>start 
+11:00:09 log:fun__build_installerFile=>end 
+11:00:09 log:fun__create_installerFile=>started 
+11:00:09 log:fun__create_installerFile=>installer.php updated at: /Users/rohans/Documents/Workspace/nashtechnology/wp-snapshots/5103b734411ea3121_20130126_nashtechnology_installer.php 
+11:00:09 log:fun__create_installerFile=>ended 
+11:00:09 ********************************************************* 
+11:00:09 DONE PROCESSING => 20130126_nashtechnology 
+11:00:09 ********************************************************* 

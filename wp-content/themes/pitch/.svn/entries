@@ -1,0 +1,336 @@
+10
+
+dir
+0
+https://github.com:443/rohans/wordpress-nashtechnology/wp-content/themes/pitch
+https://github.com:443/rohans/wordpress-nashtechnology
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+
+
+
+
+
+
+
+
+
+
+
+bb9ba19a-94f4-77cb-2fc9-ce57b7db7bff
+
+page-blog.php
+file
+
+
+
+add
+
+demo
+dir
+
+
+
+add
+
+footer.php
+file
+
+
+
+add
+
+loop-home.php
+file
+
+
+
+add
+
+slider.old.php
+file
+
+
+
+add
+
+style.css
+file
+
+
+
+add
+
+page-home.php
+file
+
+
+
+add
+
+menu.php
+file
+
+
+
+add
+
+search.php
+file
+
+
+
+add
+
+404.php
+file
+
+
+
+add
+
+loop.php
+file
+
+
+
+add
+
+tpl
+dir
+
+
+
+add
+
+.DS_Store
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+license.txt
+file
+
+
+
+add
+
+images
+dir
+
+
+
+add
+
+extras
+dir
+
+
+
+add
+
+archive.php
+file
+
+
+
+add
+
+single.php
+file
+
+
+
+add
+
+slider.php
+file
+
+
+
+add
+
+js
+dir
+
+
+
+add
+
+loop-related.php
+file
+
+
+
+add
+
+header.php
+file
+
+
+
+add
+
+taxonomy-skill.php
+file
+
+
+
+add
+
+loop-projects.php
+file
+
+
+
+add
+
+upgrade
+dir
+
+
+
+add
+
+comment.php
+file
+
+
+
+add
+
+page-projects.php
+file
+
+
+
+add
+
+index.php
+file
+
+
+
+add
+
+functions.php
+file
+
+
+
+add
+
+sidebar.php
+file
+
+
+
+add
+
+project-images.php
+file
+
+
+
+add
+
+screenshot.png
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+page-full.php
+file
+
+
+
+add
+
+page.php
+file
+
+
+
+add
+
+features.php
+file
+
+
+
+add
+
+languages
+dir
+
+
+
+add
+
+functions
+dir
+
+
+
+add
+
+archive-project.php
+file
+
+
+
+add
+
+readme.txt
+file
+
+
+
+add
+
+comments.php
+file
+
+
+
+add
+
+single-project.php
+file
+
+
+
+add
+
+home.php
+file
+
+
+
+add
+

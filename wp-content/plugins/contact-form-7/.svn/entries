@@ -1,0 +1,98 @@
+10
+
+dir
+0
+https://github.com:443/rohans/wordpress-nashtechnology/wp-content/plugins/contact-form-7
+https://github.com:443/rohans/wordpress-nashtechnology
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+
+
+
+
+
+
+
+
+
+
+
+bb9ba19a-94f4-77cb-2fc9-ce57b7db7bff
+
+uninstall.php
+file
+
+
+
+add
+
+license.txt
+file
+
+
+
+add
+
+images
+dir
+
+
+
+add
+
+includes
+dir
+
+
+
+add
+
+languages
+dir
+
+
+
+add
+
+settings.php
+file
+
+
+
+add
+
+admin
+dir
+
+
+
+add
+
+modules
+dir
+
+
+
+add
+
+wp-contact-form-7.php
+file
+
+
+
+add
+
+readme.txt
+file
+
+
+
+add
+

@@ -1,0 +1,98 @@
+10
+
+dir
+0
+https://github.com:443/rohans/wordpress-nashtechnology/wp-content/plugins/duplicator/installer/build
+https://github.com:443/rohans/wordpress-nashtechnology
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+
+
+
+
+
+
+
+
+
+
+
+bb9ba19a-94f4-77cb-2fc9-ce57b7db7bff
+
+assets
+dir
+
+
+
+add
+
+ajax.step1.php
+file
+
+
+
+add
+
+ajax.step2.php
+file
+
+
+
+add
+
+main.installer.php
+file
+
+
+
+add
+
+view.help.php
+file
+
+
+
+add
+
+view.step0.php
+file
+
+
+
+add
+
+view.step1.php
+file
+
+
+
+add
+
+view.step2.php
+file
+
+
+
+add
+
+classes
+dir
+
+
+
+add
+
+view.step3.php
+file
+
+
+
+add
+

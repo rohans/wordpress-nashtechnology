@@ -1,0 +1,56 @@
+10
+
+dir
+0
+https://github.com:443/rohans/wordpress-nashtechnology/wp-content/plugins/duplicator/installer/build/classes
+https://github.com:443/rohans/wordpress-nashtechnology
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+
+
+
+
+
+
+
+
+
+
+
+bb9ba19a-94f4-77cb-2fc9-ce57b7db7bff
+
+class.config.php
+file
+
+
+
+add
+
+class.logging.php
+file
+
+
+
+add
+
+class.serializer.php
+file
+
+
+
+add
+
+class.utils.php
+file
+
+
+
+add
+

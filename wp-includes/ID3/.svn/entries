@@ -1,0 +1,161 @@
+10
+
+dir
+0
+https://github.com:443/rohans/wordpress-nashtechnology/wp-includes/ID3
+https://github.com:443/rohans/wordpress-nashtechnology
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+
+
+
+
+
+
+
+
+
+
+
+bb9ba19a-94f4-77cb-2fc9-ce57b7db7bff
+
+module.audio.flac.php
+file
+
+
+
+add
+
+module.audio.ac3.php
+file
+
+
+
+add
+
+module.tag.apetag.php
+file
+
+
+
+add
+
+module.audio.ogg.php
+file
+
+
+
+add
+
+module.audio-video.asf.php
+file
+
+
+
+add
+
+module.audio-video.matroska.php
+file
+
+
+
+add
+
+license.txt
+file
+
+
+
+add
+
+module.audio-video.riff.php
+file
+
+
+
+add
+
+module.audio.dts.php
+file
+
+
+
+add
+
+getid3.php
+file
+
+
+
+add
+
+module.audio-video.flv.php
+file
+
+
+
+add
+
+module.audio-video.quicktime.php
+file
+
+
+
+add
+
+module.audio.mp3.php
+file
+
+
+
+add
+
+getid3.lib.php
+file
+
+
+
+add
+
+license.commercial.txt
+file
+
+
+
+add
+
+module.tag.id3v1.php
+file
+
+
+
+add
+
+module.tag.id3v2.php
+file
+
+
+
+add
+
+readme.txt
+file
+
+
+
+add
+
+module.tag.lyrics3.php
+file
+
+
+
+add
+

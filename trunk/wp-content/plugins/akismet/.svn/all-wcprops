@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/rohans/wordpress-nashtechnology/!svn/ver/2/trunk/wp-content/plugins/akismet
+END
+akismet.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/rohans/wordpress-nashtechnology/!svn/ver/2/trunk/wp-content/plugins/akismet/akismet.php
+END
+wrapper.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/rohans/wordpress-nashtechnology/!svn/ver/2/trunk/wp-content/plugins/akismet/wrapper.php
+END
+class.akismet.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/rohans/wordpress-nashtechnology/!svn/ver/2/trunk/wp-content/plugins/akismet/class.akismet.php
+END
+class.akismet-widget.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/rohans/wordpress-nashtechnology/!svn/ver/2/trunk/wp-content/plugins/akismet/class.akismet-widget.php
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/rohans/wordpress-nashtechnology/!svn/ver/2/trunk/wp-content/plugins/akismet/.htaccess
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/rohans/wordpress-nashtechnology/!svn/ver/2/trunk/wp-content/plugins/akismet/readme.txt
+END
+class.akismet-admin.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/rohans/wordpress-nashtechnology/!svn/ver/2/trunk/wp-content/plugins/akismet/class.akismet-admin.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/rohans/wordpress-nashtechnology/!svn/ver/2/trunk/wp-content/plugins/akismet/index.php
+END

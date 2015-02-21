@@ -1,0 +1,70 @@
+10
+
+dir
+0
+https://github.com:443/rohans/wordpress-nashtechnology/wp-content/themes/twentyfourteen/inc
+https://github.com:443/rohans/wordpress-nashtechnology
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+
+
+
+
+
+
+
+
+
+
+
+bb9ba19a-94f4-77cb-2fc9-ce57b7db7bff
+
+custom-header.php
+file
+
+
+
+add
+
+back-compat.php
+file
+
+
+
+add
+
+customizer.php
+file
+
+
+
+add
+
+widgets.php
+file
+
+
+
+add
+
+featured-content.php
+file
+
+
+
+add
+
+template-tags.php
+file
+
+
+
+add
+

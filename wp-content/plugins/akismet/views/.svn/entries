@@ -1,0 +1,70 @@
+10
+
+dir
+0
+https://github.com:443/rohans/wordpress-nashtechnology/wp-content/plugins/akismet/views
+https://github.com:443/rohans/wordpress-nashtechnology
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+
+
+
+
+
+
+
+
+
+
+
+bb9ba19a-94f4-77cb-2fc9-ce57b7db7bff
+
+start.php
+file
+
+
+
+add
+
+stats.php
+file
+
+
+
+add
+
+get.php
+file
+
+
+
+add
+
+notice.php
+file
+
+
+
+add
+
+config.php
+file
+
+
+
+add
+
+strict.php
+file
+
+
+
+add
+

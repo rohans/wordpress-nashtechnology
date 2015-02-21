@@ -1,0 +1,63 @@
+10
+
+dir
+0
+https://github.com:443/rohans/wordpress-nashtechnology/wp-content/plugins/wp-clone-by-wp-academy/lib
+https://github.com:443/rohans/wordpress-nashtechnology
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+
+
+
+
+
+
+
+
+
+
+
+bb9ba19a-94f4-77cb-2fc9-ce57b7db7bff
+
+view.php
+file
+
+
+
+add
+
+icit_srdb_replacer.php
+file
+
+
+
+add
+
+css
+dir
+
+
+
+add
+
+js
+dir
+
+
+
+add
+
+functions.php
+file
+
+
+
+add
+

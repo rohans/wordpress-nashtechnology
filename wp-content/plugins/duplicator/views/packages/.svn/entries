@@ -1,0 +1,77 @@
+10
+
+dir
+0
+https://github.com:443/rohans/wordpress-nashtechnology/wp-content/plugins/duplicator/views/packages
+https://github.com:443/rohans/wordpress-nashtechnology
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+
+
+
+
+
+
+
+
+
+
+
+bb9ba19a-94f4-77cb-2fc9-ce57b7db7bff
+
+list-nodata.php
+file
+
+
+
+add
+
+controller.php
+file
+
+
+
+add
+
+new1.base.php
+file
+
+
+
+add
+
+list.base.php
+file
+
+
+
+add
+
+new1.inc.form.php
+file
+
+
+
+add
+
+new2.base.php
+file
+
+
+
+add
+
+new3.base.php
+file
+
+
+
+add
+

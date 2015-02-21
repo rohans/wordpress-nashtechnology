@@ -1,0 +1,889 @@
+10
+
+dir
+0
+https://github.com:443/rohans/wordpress-nashtechnology/wp-includes
+https://github.com:443/rohans/wordpress-nashtechnology
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+
+
+
+
+
+
+
+
+
+
+
+bb9ba19a-94f4-77cb-2fc9-ce57b7db7bff
+
+ID3
+dir
+
+
+
+add
+
+class-snoopy.php
+file
+
+
+
+add
+
+admin-bar.php
+file
+
+
+
+add
+
+default-filters.php
+file
+
+
+
+add
+
+feed-rss2.php
+file
+
+
+
+add
+
+plugin.php
+file
+
+
+
+add
+
+post-template.php
+file
+
+
+
+add
+
+locale.php
+file
+
+
+
+add
+
+nav-menu-template.php
+file
+
+
+
+add
+
+feed-atom.php
+file
+
+
+
+add
+
+class-feed.php
+file
+
+
+
+add
+
+ms-default-filters.php
+file
+
+
+
+add
+
+wlwmanifest.xml
+file
+
+
+
+add
+
+class-wp-customize-section.php
+file
+
+
+
+add
+
+date.php
+file
+
+
+
+add
+
+category.php
+file
+
+
+
+add
+
+taxonomy.php
+file
+
+
+
+add
+
+ms-files.php
+file
+
+
+
+add
+
+certificates
+dir
+
+
+
+add
+
+template-loader.php
+file
+
+
+
+add
+
+class-wp-customize-manager.php
+file
+
+
+
+add
+
+class-http.php
+file
+
+
+
+add
+
+functions.wp-scripts.php
+file
+
+
+
+add
+
+update.php
+file
+
+
+
+add
+
+compat.php
+file
+
+
+
+add
+
+class-phpmailer.php
+file
+
+
+
+add
+
+class-pop3.php
+file
+
+
+
+add
+
+pomo
+dir
+
+
+
+add
+
+class-wp-image-editor-gd.php
+file
+
+
+
+add
+
+post.php
+file
+
+
+
+add
+
+version.php
+file
+
+
+
+add
+
+js
+dir
+
+
+
+add
+
+class-wp-customize-control.php
+file
+
+
+
+add
+
+default-widgets.php
+file
+
+
+
+add
+
+class-wp-theme.php
+file
+
+
+
+add
+
+class-simplepie.php
+file
+
+
+
+add
+
+wp-diff.php
+file
+
+
+
+add
+
+default-constants.php
+file
+
+
+
+add
+
+post-formats.php
+file
+
+
+
+add
+
+revision.php
+file
+
+
+
+add
+
+pluggable-deprecated.php
+file
+
+
+
+add
+
+SimplePie
+dir
+
+
+
+add
+
+theme.php
+file
+
+
+
+add
+
+comment.php
+file
+
+
+
+add
+
+class-wp-embed.php
+file
+
+
+
+add
+
+class-IXR.php
+file
+
+
+
+add
+
+feed-rss.php
+file
+
+
+
+add
+
+functions.php
+file
+
+
+
+add
+
+registration.php
+file
+
+
+
+add
+
+l10n.php
+file
+
+
+
+add
+
+template.php
+file
+
+
+
+add
+
+class.wp-styles.php
+file
+
+
+
+add
+
+comment-template.php
+file
+
+
+
+add
+
+vars.php
+file
+
+
+
+add
+
+feed-rdf.php
+file
+
+
+
+add
+
+rss-functions.php
+file
+
+
+
+add
+
+shortcodes.php
+file
+
+
+
+add
+
+user.php
+file
+
+
+
+add
+
+functions.wp-styles.php
+file
+
+
+
+add
+
+bookmark-template.php
+file
+
+
+
+add
+
+class.wp-dependencies.php
+file
+
+
+
+add
+
+class.wp-scripts.php
+file
+
+
+
+add
+
+media.php
+file
+
+
+
+add
+
+load.php
+file
+
+
+
+add
+
+post-thumbnail-template.php
+file
+
+
+
+add
+
+registration-functions.php
+file
+
+
+
+add
+
+ms-blogs.php
+file
+
+
+
+add
+
+feed-atom-comments.php
+file
+
+
+
+add
+
+class-wp-image-editor.php
+file
+
+
+
+add
+
+class-wp-image-editor-imagick.php
+file
+
+
+
+add
+
+class-wp-xmlrpc-server.php
+file
+
+
+
+add
+
+class-phpass.php
+file
+
+
+
+add
+
+fonts
+dir
+
+
+
+add
+
+cache.php
+file
+
+
+
+add
+
+query.php
+file
+
+
+
+add
+
+bookmark.php
+file
+
+
+
+add
+
+class-wp-ajax-response.php
+file
+
+
+
+add
+
+link-template.php
+file
+
+
+
+add
+
+option.php
+file
+
+
+
+add
+
+wp-db.php
+file
+
+
+
+add
+
+formatting.php
+file
+
+
+
+add
+
+author-template.php
+file
+
+
+
+add
+
+class-wp-walker.php
+file
+
+
+
+add
+
+feed-rss2-comments.php
+file
+
+
+
+add
+
+class-wp-customize-widgets.php
+file
+
+
+
+add
+
+ms-deprecated.php
+file
+
+
+
+add
+
+images
+dir
+
+
+
+add
+
+rewrite.php
+file
+
+
+
+add
+
+session.php
+file
+
+
+
+add
+
+general-template.php
+file
+
+
+
+add
+
+canonical.php
+file
+
+
+
+add
+
+atomlib.php
+file
+
+
+
+add
+
+media-template.php
+file
+
+
+
+add
+
+capabilities.php
+file
+
+
+
+add
+
+class-wp.php
+file
+
+
+
+add
+
+ms-load.php
+file
+
+
+
+add
+
+theme-compat
+dir
+
+
+
+add
+
+class-oembed.php
+file
+
+
+
+add
+
+Text
+dir
+
+
+
+add
+
+deprecated.php
+file
+
+
+
+add
+
+cron.php
+file
+
+
+
+add
+
+css
+dir
+
+
+
+add
+
+pluggable.php
+file
+
+
+
+add
+
+feed.php
+file
+
+
+
+add
+
+kses.php
+file
+
+
+
+add
+
+class-wp-customize-panel.php
+file
+
+
+
+add
+
+widgets.php
+file
+
+
+
+add
+
+rss.php
+file
+
+
+
+add
+
+script-loader.php
+file
+
+
+
+add
+
+ms-default-constants.php
+file
+
+
+
+add
+
+class-json.php
+file
+
+
+
+add
+
+class-wp-editor.php
+file
+
+
+
+add
+
+ms-settings.php
+file
+
+
+
+add
+
+http.php
+file
+
+
+
+add
+
+class-wp-error.php
+file
+
+
+
+add
+
+class-wp-admin-bar.php
+file
+
+
+
+add
+
+class-wp-http-ixr-client.php
+file
+
+
+
+add
+
+class-wp-customize-setting.php
+file
+
+
+
+add
+
+ms-functions.php
+file
+
+
+
+add
+
+category-template.php
+file
+
+
+
+add
+
+class-smtp.php
+file
+
+
+
+add
+
+meta.php
+file
+
+
+
+add
+
+nav-menu.php
+file
+
+
+
+add
+

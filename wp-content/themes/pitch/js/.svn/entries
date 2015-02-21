@@ -1,0 +1,84 @@
+10
+
+dir
+0
+https://github.com:443/rohans/wordpress-nashtechnology/wp-content/themes/pitch/js
+https://github.com:443/rohans/wordpress-nashtechnology
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+
+
+
+
+
+
+
+
+
+
+
+bb9ba19a-94f4-77cb-2fc9-ce57b7db7bff
+
+jquery.preload.js
+file
+
+
+
+add
+
+flexslider
+dir
+
+
+
+add
+
+jquery.preload.min.js
+file
+
+
+
+add
+
+pitch.js
+file
+
+
+
+add
+
+pitch.min.js
+file
+
+
+
+add
+
+nivo
+dir
+
+
+
+add
+
+html5shiv.js
+file
+
+
+
+add
+
+selectivizr.js
+file
+
+
+
+add
+

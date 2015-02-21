@@ -1,0 +1,315 @@
+10
+
+dir
+0
+https://github.com:443/rohans/wordpress-nashtechnology/wp-content/themes/twentyfourteen
+https://github.com:443/rohans/wordpress-nashtechnology
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+
+
+
+
+
+
+
+
+
+
+
+bb9ba19a-94f4-77cb-2fc9-ce57b7db7bff
+
+content-aside.php
+file
+
+
+
+add
+
+footer.php
+file
+
+
+
+add
+
+style.css
+file
+
+
+
+add
+
+author.php
+file
+
+
+
+add
+
+content-link.php
+file
+
+
+
+add
+
+search.php
+file
+
+
+
+add
+
+404.php
+file
+
+
+
+add
+
+content-none.php
+file
+
+
+
+add
+
+featured-content.php
+file
+
+
+
+add
+
+taxonomy-post_format.php
+file
+
+
+
+add
+
+content.php
+file
+
+
+
+add
+
+tag.php
+file
+
+
+
+add
+
+category.php
+file
+
+
+
+add
+
+images
+dir
+
+
+
+add
+
+sidebar-content.php
+file
+
+
+
+add
+
+archive.php
+file
+
+
+
+add
+
+single.php
+file
+
+
+
+add
+
+content-page.php
+file
+
+
+
+add
+
+js
+dir
+
+
+
+add
+
+header.php
+file
+
+
+
+add
+
+content-featured-post.php
+file
+
+
+
+add
+
+content-image.php
+file
+
+
+
+add
+
+rtl.css
+file
+
+
+
+add
+
+css
+dir
+
+
+
+add
+
+content-quote.php
+file
+
+
+
+add
+
+sidebar-footer.php
+file
+
+
+
+add
+
+genericons
+dir
+
+
+
+add
+
+content-gallery.php
+file
+
+
+
+add
+
+index.php
+file
+
+
+
+add
+
+functions.php
+file
+
+
+
+add
+
+content-audio.php
+file
+
+
+
+add
+
+sidebar.php
+file
+
+
+
+add
+
+screenshot.png
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+page.php
+file
+
+
+
+add
+
+content-video.php
+file
+
+
+
+add
+
+languages
+dir
+
+
+
+add
+
+image.php
+file
+
+
+
+add
+
+page-templates
+dir
+
+
+
+add
+
+inc
+dir
+
+
+
+add
+
+comments.php
+file
+
+
+
+add
+
